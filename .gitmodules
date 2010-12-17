@@ -19,3 +19,6 @@
 [submodule "Ruby-Sass.tmbundle"]
 	path = Ruby-Sass.tmbundle
 	url = https://github.com/charlesr/ruby-sass-tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = https://github.com/drnic/ruby-tmbundle.git
