@@ -4,3 +4,6 @@
 [submodule "JSLint.tmbundle"]
 	path = JSLint.tmbundle
 	url = https://github.com/ppierre/jslint-tmbundle.git
+[submodule "Whitespace.tmbundle"]
+	path = Whitespace.tmbundle
+	url = https://github.com/vigetlabs/whitespace-tmbundle.git
