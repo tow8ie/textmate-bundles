@@ -1,3 +1,6 @@
 [submodule "Copy-as-RTF.tmbundle"]
 	path = Copy-as-RTF.tmbundle
 	url = https://github.com/drnic/copy-as-rtf-tmbundle.git
+[submodule "JSLint.tmbundle"]
+	path = JSLint.tmbundle
+	url = https://github.com/ppierre/jslint-tmbundle.git
