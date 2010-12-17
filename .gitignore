@@ -1,7 +1,8 @@
 .DS_Store
+
 JSON.tmbundle/
 JavaScript.tmbundle/
-RSpec.tmbundle/
+
 Ruby-Haml.tmbundle/
 Ruby-Sass.tmbundle/
 Ruby.tmbundle/
