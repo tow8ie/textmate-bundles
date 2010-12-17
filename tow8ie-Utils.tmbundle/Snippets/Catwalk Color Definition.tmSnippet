@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$$1: ${2:#ff00ff}
+.-sg-color-$1
+  background-color: \$$1</string>
+	<key>name</key>
+	<string>Catwalk Color Definition</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>clr</string>
+	<key>uuid</key>
+	<string>1CC0B25C-CA7C-4CBB-89D6-6E956BE78C06</string>
+</dict>
+</plist>
