@@ -2,9 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>name</key>
-  <string>tow8ie-Utils</string>
-  <key>uuid</key>
-  <string>99EC5D6A-DDB3-4635-B35C-CF7BAAAF1D74</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>4F67198B-74F9-424A-A70C-01BBF7352B82</string>
+			<string>769D063B-C3E4-4D89-A849-68BE99F20FBD</string>
+			<string>3FC19B48-FC82-4C83-992C-B9A18C2F22D5</string>
+			<string>962FB967-1CAE-4978-ADA7-EC0084739651</string>
+			<string>03D7020F-AA50-4369-9428-A50BEE5B63A4</string>
+			<string>1CC0B25C-CA7C-4CBB-89D6-6E956BE78C06</string>
+			<string>B2B1273F-CA31-40B9-8298-F1464376A18F</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>tow8ie-Utils</string>
+	<key>ordering</key>
+	<array>
+		<string>4F67198B-74F9-424A-A70C-01BBF7352B82</string>
+		<string>769D063B-C3E4-4D89-A849-68BE99F20FBD</string>
+		<string>3FC19B48-FC82-4C83-992C-B9A18C2F22D5</string>
+		<string>962FB967-1CAE-4978-ADA7-EC0084739651</string>
+		<string>03D7020F-AA50-4369-9428-A50BEE5B63A4</string>
+		<string>1CC0B25C-CA7C-4CBB-89D6-6E956BE78C06</string>
+		<string>B2B1273F-CA31-40B9-8298-F1464376A18F</string>
+	</array>
+	<key>uuid</key>
+	<string>99EC5D6A-DDB3-4635-B35C-CF7BAAAF1D74</string>
 </dict>
 </plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:options} = jQuery.extend({
+  $0
+}, ${2:options});</string>
+	<key>name</key>
+	<string>jQuery Function Options</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>opts</string>
+	<key>uuid</key>
+	<string>3FC19B48-FC82-4C83-992C-B9A18C2F22D5</string>
+</dict>
+</plist>
