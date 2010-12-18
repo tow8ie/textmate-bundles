@@ -25,3 +25,6 @@
 [submodule "Ruby-Shoulda.tmbundle"]
 	path = Ruby-Shoulda.tmbundle
 	url = https://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "JSON.tmbundle"]
+	path = JSON.tmbundle
+	url = https://github.com/textmate/json.tmbundle.git
