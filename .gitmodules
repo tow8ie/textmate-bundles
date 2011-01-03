@@ -34,6 +34,3 @@
 [submodule "Code-Beautifier.tmbundle"]
 	path = Code-Beautifier.tmbundle
 	url = https://github.com/mocoso/code-beautifier.tmbundle.git
-[submodule "PhoneGap.tmbundle"]
-	path = PhoneGap.tmbundle
-	url = https://github.com/imhotep/PhoneGap.tmbundle.git
